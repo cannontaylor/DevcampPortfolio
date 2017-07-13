@@ -57,4 +57,4 @@ gem 'devise', '~> 4.3'
 
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
 
-gem 'taylor_view_tool', git: 'https://github.com/cannontaylor/taylor_view_tool'
+gem 'taylor_view_tool', '~> 0.1.0'
