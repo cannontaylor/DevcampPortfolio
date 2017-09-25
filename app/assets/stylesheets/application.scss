@@ -235,8 +235,12 @@ nav a:hover {
   z-index: -100;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  background: image-url('Background.PNG') no-repeat;
+  background: image-url('Background.PNG')no-repeat;
   background-size: cover;
+}
+
+.site-wrapper-inner {
+  background: image-url('pixelEffect.png');
 }
 
 .app-footer {
