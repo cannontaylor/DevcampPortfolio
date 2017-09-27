@@ -1,6 +1,8 @@
 @import "bootstrap";
 @import "font-awesome";
 @import "gritter";
+$hamburger-layer-color: #333;
+@import "hamburgers";
 
 /*
  * Globals
@@ -197,5 +199,15 @@ h6, .h6 {
    margin: 0px 10px 0px 10px;
  }
  
+ .blog-nav {
+   margin-bottom: 30px;
+ }
  
- 
+.navbar {
+  background-color: #f8f8f8;
+}
+
+.hamburger {
+  color: black;
+}
+
