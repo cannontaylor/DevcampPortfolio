@@ -171,7 +171,7 @@ body {
   text-align: left;
 }
 .card {
-  padding: 10px;
+  padding: 15px;
 }
 
 .auth-links a {
@@ -260,8 +260,14 @@ nav a:hover {
   padding: 30px;
 }
 
+.app-card-container {
+  color: black;
+  text-align: left;
+}
 
-
+.app-card-container a {
+  color: blue;
+}
 
 
 
