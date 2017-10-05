@@ -288,4 +288,14 @@ nav a:hover {
   margin-bottom: 10px;
 }
 
+//Use company and job classes for education as well
+//Company=School
+.company {
+  font-size: 150%;
+  text-decoration: underline;
+}
 
+//Job=Educationlevel/course
+.job{
+  font-size: 100%;
+}
